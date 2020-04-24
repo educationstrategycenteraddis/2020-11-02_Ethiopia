@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "Hosted by SADiLaR "        # brief name of host site without address (e.g., "Euphoric State University")
-#address: "11 Hoffman Str, Potchefstroom, North West, 2531"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+#address: "Online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "-26.6901346"     # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -147,20 +147,18 @@ ACCESSIBILITY
 #{% endcomment %}
 #<p id="accessibility">
  # <strong>Accessibility:</strong> We are committed to making this workshop
- # accessible to everybody.
- # The workshop organizers have checked that:
+ # accessible as far as possible.
+ # Please make sure that you have the following:
 #</p>
 #<ul>
-#  <li>The room is wheelchair / scooter accessible.</li>
- # <li>Accessible restrooms are available.</li>
+#  <li>Laptop with Admin privelages.</li>
+ # <li>Internet access for the whole three days.</li>
 #</ul>
 #<p>
 #  Materials will be provided in advance of the workshop and
- # large-print handouts are available if needed by notifying the
- # organizers in advance.  If we can help making learning easier for
- # you (e.g. sign-language interpreters, lactation facilities) please
- # get in touch (using contact details below) and we will
- # attempt to provide them.
+ # you will be able to ask the organisers for extra materials if needed
+ # in advance.  If we can help making learning easier for
+ # you.
 #</p>
 
 {% comment %}
