@@ -1,7 +1,7 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
 venue: "Hosted by SADiLaR "        # brief name of host site without address (e.g., "Euphoric State University")
-#address: "Online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "za"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
 latitude: "-26.6901346"     # decimal latitude of workshop venue (use https://www.latlong.net/)
@@ -142,24 +142,24 @@ Modify the block below if there are any special requirements.
 {% comment %}
 ACCESSIBILITY
 
-#Modify the block below if there are any barriers to accessibility or
-#special instructions.
-#{% endcomment %}
-#<p id="accessibility">
- # <strong>Accessibility:</strong> We are committed to making this workshop
- # accessible as far as possible.
- # Please make sure that you have the following:
-#</p>
-#<ul>
-#  <li>Laptop with Admin privelages.</li>
- # <li>Internet access for the whole three days.</li>
-#</ul>
-#<p>
-#  Materials will be provided in advance of the workshop and
- # you will be able to ask the organisers for extra materials if needed
- # in advance.  If we can help making learning easier for
- # you.
-#</p>
+Modify the block below if there are any barriers to accessibility or
+special instructions.
+{% endcomment %}
+<p id="accessibility">
+ <strong>Accessibility:</strong> We are committed to making this workshop
+ accessible as far as possible.
+ Please make sure that you have the following:
+</p>
+<ul>
+  <li>Laptop with Admin privelages.</li>
+ <li>Internet access for the whole three days.</li>
+</ul>
+<p>
+  Materials will be provided in advance of the workshop and
+ you will be able to ask the organisers for extra materials if needed
+  in advance.  If we can help making learning easier for
+ you.
+</p>
 
 {% comment %}
 CONTACT EMAIL ADDRESS
