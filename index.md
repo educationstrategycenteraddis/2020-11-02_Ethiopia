@@ -151,7 +151,7 @@ special instructions.
  Please make sure that you have the following:
 </p>
 <ul>
-  <li>Laptop with Admin privelages.</li>
+  <li>Laptop with Admin privileges.</li>
  <li>Internet access for the whole three days.</li>
 </ul>
 <p>
