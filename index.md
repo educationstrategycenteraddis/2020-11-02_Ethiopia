@@ -151,8 +151,8 @@ special instructions.
  Please make sure that you have the following:
 </p>
 <ul>
-  <li>Laptop with Admin privileges.</li>
- <li>Internet access for the whole three days.</li>
+  <li>Laptop with Administration privileges.</li>
+ <li>Internet access for the duration of the workshop.</li>
 </ul>
 <p>
   Materials will be provided in advance of the workshop and
