@@ -320,3 +320,11 @@ please preview your site before committing, and make sure to run
 {% elsif site.carpentry == "lc" %}
 {% include lc/setup.html %}
 {% endif %}
+<p> 
+{% commment %} Additional information taken from 
+https://github.com/UCSBCarpentry/2020-08-17-Summer-R
+{% endcomment %}
+
+Additional R setup information is below.
+</p>
+{% include dc/r_setup.md %}
